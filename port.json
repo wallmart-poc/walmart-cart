@@ -1,0 +1,13 @@
+{
+  "identifier": "walmart-cart",
+  "title": "Cart Service",
+  "blueprint": "service",
+  "properties": {
+    "lifecycle": "production",
+    "criticality": "high",
+    "slack_channel": "#cart-checkout"
+  },
+  "relations": {
+    "depends_on": []
+  }
+}

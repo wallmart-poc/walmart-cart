@@ -1,0 +1,3 @@
+# Cart gRPC service (.NET) plus its storage backends
+# (in-memory, Redis, Spanner, AlloyDB).
+*   @wallmart-poc/cart-checkout

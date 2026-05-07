@@ -4,7 +4,7 @@
   "blueprint": "service",
   "properties": {
     "lifecycle": "production",
-    "criticality": "high",
+    "criticality": "critical",
     "slack_channel": "#cart-checkout",
     "type": "grpc",
     "tier": "backend",
